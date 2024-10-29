@@ -21,12 +21,16 @@ API Key: Oyb0npJAVdRwDauqpFez7zKCy2euUYql
 
 Install:
 ========
-1. yarn install
+1. `yarn install`
+2. Copy the `env.example` file and rename the new file to `.env`
+3. Assign the API key to the existing environment variable
 
 Test:
 =====
-1. yarn install
-2. yarn test
+1. `yarn install`
+2. Copy the `env.example` file and rename the new file to `.env`
+3. Assign the API key to the existing environment variable
+2. `yarn test`
 
 
 Requirements:
